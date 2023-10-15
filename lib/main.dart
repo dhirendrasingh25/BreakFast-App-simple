@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       theme: ThemeData(fontFamily: 'Poppins'), // Set the fontFamily directly
-      home: const HomePage(),
+      home: HomePage(),
     );
   }
 }
