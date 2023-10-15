@@ -26,13 +26,13 @@ class HomePage extends StatelessWidget {
       body: ListView(
         children: [
           searchField(),
-          SizedBox(height: 40),
+          const SizedBox(height: 40),
           category_section(categories: categories),
-          SizedBox(height: 40),
+          const SizedBox(height: 40),
           recomendation_section(diets: diets),
-          SizedBox(height: 40),
+          const SizedBox(height: 40),
           popular_section(popularDiets: popularDiets),
-          SizedBox(height: 40),
+          const SizedBox(height: 40),
         ],
       ),
     );
