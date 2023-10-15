@@ -22,7 +22,7 @@ This Flutter application showcases various features and concepts, including:
 
 <div style="display: flex; justify-content: space-between; ">
 
-<img width="150" alt="Screenshot 2023-10-15 at 10 50 44 PM" src="https://github.com/dhirendrasingh25/BreakFast-App-simple/assets/115912791/57416b15-6388-4a4d-b799-075e790b1d99">
+<img width="150" alt="Screenshot 2023-10-15 at 10 50 44 PM" style="padding:10px" src="https://github.com/dhirendrasingh25/BreakFast-App-simple/assets/115912791/57416b15-6388-4a4d-b799-075e790b1d99">
 
 
 
