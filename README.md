@@ -32,6 +32,7 @@ This Flutter application showcases various features and concepts, including:
 
 
 
+
 ## Getting Started
 
 To run this Flutter application on your local machine:
