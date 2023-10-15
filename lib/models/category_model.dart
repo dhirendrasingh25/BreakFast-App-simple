@@ -28,6 +28,15 @@ class CategoryModel {
         name: 'Smoothie',
         iconPath: 'assets/icons/orange-snacks.svg',
         boxColor: Color(0xffC58BF2)));
+    categories.add(CategoryModel(
+        name: 'Salad 2',
+        iconPath: 'assets/icons/plate2.svg',
+        boxColor: Color(0xff92A3FD)));
+    categories.add(CategoryModel(
+        name: 'Cake 2',
+        iconPath: 'assets/icons/pancakes.svg',
+        boxColor: Color(0xffC58BF2)));
+
     return categories;
   }
 }
